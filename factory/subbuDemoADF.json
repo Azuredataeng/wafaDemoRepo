@@ -1,0 +1,9 @@
+{
+	"name": "subbuDemoADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "49df8383-b858-4abd-8f6b-c4f19a6d83e4",
+		"tenantId": "b6202132-6bdd-402e-a193-4f59dc874ce2"
+	}
+}
