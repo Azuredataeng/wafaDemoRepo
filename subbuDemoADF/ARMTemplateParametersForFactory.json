@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "subbuDemoADF"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
